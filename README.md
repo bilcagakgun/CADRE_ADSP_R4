@@ -8,7 +8,8 @@ This repository contains scripts used in the study "Multi‐ancestry whole genom
 3. Principal Component Analysis (PCA) [README](scripts/3_PCA/README.md)
 4. Single variant analysis [README](scripts/4_Single_variant_analysis/README.md)
 5. Gene-based analysis [README](scripts/5_Gene-based_analysis/README.md)
-6. Fine-Mapping [README](scripts/6_Fine-mapping/README.md)
+6. Meta-analysis [README](scripts/6_Meta-analysis/README.md)
+7. Fine-Mapping [README](scripts/7_Fine-mapping/README.md)
 
 ---
 
