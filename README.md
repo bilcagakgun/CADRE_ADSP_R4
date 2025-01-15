@@ -16,7 +16,7 @@ This repository contains scripts used in the study "Multi‐ancestry whole genom
 
 ## Contacts
 
-Bilcag Akgun - (<bxa644@med.miami.edu>), Assistant Scientist, John P. Hussman Institute for Human Genomics, University of Miami Miller School of Medicine
+Bilcag Akgun - (<bilcag.akgun@med.miami.edu>), Assistant Scientist, John P. Hussman Institute for Human Genomics, University of Miami Miller School of Medicine
 
 Brian W Kunkle - (<bkunkle@med.miami.edu>), Assistant Professor, John P. Hussman Institute for Human Genomics, University of Miami Miller School of Medicine
 
